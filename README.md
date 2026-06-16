@@ -1,19 +1,22 @@
-# spotifyclone
+# Spotify Clone — Music Streaming UI
 
-## Zero-Human Multi-Agent Platform
+A production-ready Spotify-style music streaming application built with Next.js 14 (App Router), TypeScript, and Tailwind CSS.
 
-This repository is managed by the Zero-Human multi-agent platform.
+## Features
 
-### Getting Started
+- 🎵 **Music Streaming UI** — Full Spotify-inspired interface
+- 🏠 **Home Page** — Hero section, featured playlists, recently played, trending tracks
+- 🔍 **Search** — Real-time search across tracks, artists, albums, and playlists
+- 🎨 **Browse** — Categories, charts, new releases
+- 📋 **Playlist Detail** — Full tracklist with play controls
+- 👤 **Artist Profile** — Bio, top tracks, discography, related artists
+- 🎛️ **Player Bar** — Persistent bottom player with controls, progress, and volume
+- 📱 **Mobile Navigation** — Bottom nav for mobile devices
+- 🗂️ **Sidebar** — Desktop navigation with library
 
-1. Configure your agents in the platform dashboard
-2. Create issues or feature requests
-3. Agents will automatically work on tasks
+## Tech Stack
 
-### Documentation
-
-- See `docs/` for project documentation
-- See `.paperclip/` for platform configuration
-- See `memory-bank/` for agent memory and context
-
-For more information, visit the Zero-Human platform documentation.
+- **Framework**: Next.js 14 (App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Images**: Next.js Image optimization
